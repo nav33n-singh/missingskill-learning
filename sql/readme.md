@@ -1,3 +1,5 @@
+# TOC
+
 - [SQL](./sql.md#sql)
   * [Data Types](./sql.md#data-types)
     + [NUMBER](./sql.md#number)
